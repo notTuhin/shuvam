@@ -1,0 +1,29 @@
+.search{
+    border-style: none;
+    border-radius: 77px;
+}
+
+.sidebar {
+    height: 100%;
+}
+
+.roundedd {
+    border-radius: 9px;
+    height: 250px;
+
+}
+
+.back{
+    
+    border-radius: 10px;
+    height:95%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.white{
+    color:white;
+}
